@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Calculator</title>
+<style type="text/css">
+
+body {
+  background-image: url("img/servlet.jpg");
+    margin-top: 250px;
+  margin-bottom: 50px;
+  margin-right:15px;
+  margin-left: 40px;
+}
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.Field{
+width:20%;
+height:35px;
+}
+</style>
+
+
+
+</head>
+<body>
+<center>
+
+<form action="Myser" Method="post" >
+
+<input type="number" name="num1"  class="Field" placeholder="Enter Number Here" required><br><br><br>
+
+<input type="number" name="num2" class="Field" placeholder="Enter Number Here" required><br><br><br>
+
+<input type="submit" value="Addition"  class="button" name="con"> &nbsp;  &nbsp;   
+<input type="submit" value="Subtraction"  class="button"name="con" >&nbsp;&nbsp;
+<input type="submit" value="Division" class="button" name="con" >&nbsp;&nbsp;
+<input type="submit" value="Multiplication"  class="button"name="con" >&nbsp;
+
+</form>
+</center>
+</body>
+</html>
