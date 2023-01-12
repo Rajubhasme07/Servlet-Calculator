@@ -3,7 +3,7 @@ This project is a basic web application for performing basic mathematical operat
 
 <b>OUTPUT⬇️</b>
 
-<h3> This First Page Is Create Using Html, It Taking The Input form the User, after pressing any of the buttons.Its shows output to Servlet-Page.. 👇</h3>
+<h3> This First Page Is Create Using Html, It Taking The Input form the User, after pressing any of the buttons.Its shows output On Servlet-Page.. 👇</h3>
 
 ![ser1](https://user-images.githubusercontent.com/115862833/211187055-c88dda24-1d39-408f-b548-8e35976ea363.png)
 
